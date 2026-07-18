@@ -1,0 +1,10 @@
+products.csv
+products.json
+scraper.log
+__pycache__/
+*.pyc
+venv/
+.venv/
+
+.vscode/
+.idea/
