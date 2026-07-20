@@ -1,5 +1,5 @@
 # E-Commerce Product Scraper
-
+![Example output](screenshot.png)
 A web scraper demonstrating pagination handling, retry logic, rate limiting, and structured data export (CSV + JSON).
 
 **Target:** [books.toscrape.com](https://books.toscrape.com) — a sandbox site built for scraping practice (safe to publish against, unlike scraping Amazon/eBay directly).
